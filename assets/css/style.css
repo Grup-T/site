@@ -240,7 +240,7 @@ button {
 
     width: 100%;
 
-    background: green;
+    background: #3c763d;
 
     opacity: 0.93;
 
@@ -446,7 +446,7 @@ button {
 
 .custom-pagination-wrapper {
 
-    border-top: 1px solid #158700;
+    border-top: 1px solid #3c763d;
 
     width: 100%;
 
@@ -841,7 +841,7 @@ footer {
 	padding-left: 10%;
 	padding-bottom: 2%;
 	font-family: 'Open Sans', sans-serif;
-	border-top: 6px solid #148700;
+	border-top: 6px solid #3c763d;
 	position: relative;
 	z-index: 9;
 }
