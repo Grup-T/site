@@ -9,3 +9,5 @@ Menü rengini ve footer rengini değiştirdim
 Ana sayfada düzenlemeler yaptım. Kişi listesini ekledim
 # Mert-A
 Video sayfalarını düzenledim 5er tane kopyaladım
+# yilmazonur0750
+Videoların linkleri güncelledim
