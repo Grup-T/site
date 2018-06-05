@@ -5,3 +5,5 @@ Site temasını yükledim
 Site isimlerini ve resmini değiştirdim. İletişime kişileri ekledim.
 # OnurTaf
 Menü rengini ve footer rengini değiştirdim
+# UlukanB
+Ana sayfada düzenlemeler yaptım. Kişi listesini ekledim
