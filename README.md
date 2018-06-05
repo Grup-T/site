@@ -7,3 +7,5 @@ Site isimlerini ve resmini değiştirdim. İletişime kişileri ekledim.
 Menü rengini ve footer rengini değiştirdim
 # UlukanB
 Ana sayfada düzenlemeler yaptım. Kişi listesini ekledim
+# Mert-A
+Video sayfalarını düzenledim 5er tane kopyaladım
